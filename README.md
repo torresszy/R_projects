@@ -1,2 +1,3 @@
 # R_projects
-A collection of R projects I have done
+
+Test codes from R projects.
